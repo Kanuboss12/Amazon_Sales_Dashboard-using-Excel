@@ -36,6 +36,7 @@ D)	Interactivity Features: Allow to switch between Dashboard, Pivot Tables, and 
 The dashboard includes target comparisons for key metrics like sales, units sold, and city coverage, identifying areas for improvement (e.g., achieving targets in additional cities, Increasing Sales Volume by implementing better marketing strategies, etc.).
 
 🛠️ Tools & Skills Used:
+
 A)	Microsoft Excel: Advanced charting, data formatting, and layout design.
 
 B)	Data Analysis: Filtering and summarizing data to identify patterns and trends.
