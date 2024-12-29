@@ -34,7 +34,7 @@ D)	Interactivity Features: Allow to switch between Dashboard, Pivot Tables, and 
 
 
 ## Final Findings for the sales management:
-The dashboard includes target comparisons for key metrics like sales, units sold, and city coverage, identifying areas for improvement (e.g., achieving targets in additional cities, Increasing Sales Volume by implementing better marketing strategies, etc.).
+The dashboard includes target comparisons for key metrics like sales, units sold, and city coverage, identifying areas for improvement (e.g., achieving targets in additional cities, Increasing Sales Volume by implementing better marketing strategies in Top Performing areas, Boosting Sales in Underperforming Regions.
 
 ![Screenshot 2024-12-29 124917](https://github.com/user-attachments/assets/fcf3c20c-068b-4ef6-9ba4-67ebb78a75a6)
 ![Screenshot 2024-12-29 124857](https://github.com/user-attachments/assets/8afd014b-ba79-44dd-bc46-d623fb278625)
