@@ -35,15 +35,5 @@ D)	Interactivity Features: Allow to switch between Dashboard, Pivot Tables, and 
 ## Final Findings for the sales management:
 The dashboard includes target comparisons for key metrics like sales, units sold, and city coverage, identifying areas for improvement (e.g., achieving targets in additional cities, Increasing Sales Volume by implementing better marketing strategies, etc.).
 
-🛠️ Tools & Skills Used:
-
-A)	Microsoft Excel: Advanced charting, data formatting, and layout design.
-
-B)	Data Analysis: Filtering and summarizing data to identify patterns and trends.
-
-C)	Visualization Design: Intuitive visuals for quick understanding and actionable insights.
-
-D)	Interactivity Features: Allow to switch between Dashboard, Pivot Tables, and Data.
-
 ![Screenshot 2024-12-29 124917](https://github.com/user-attachments/assets/fcf3c20c-068b-4ef6-9ba4-67ebb78a75a6)
 
